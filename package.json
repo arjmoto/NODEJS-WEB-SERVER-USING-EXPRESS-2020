@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-web-server-using-express-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjmoto/NODEJS-WEB-SERVER-USING-EXPRESS-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjmoto/NODEJS-WEB-SERVER-USING-EXPRESS-2020/issues"
+  },
+  "homepage": "https://github.com/arjmoto/NODEJS-WEB-SERVER-USING-EXPRESS-2020#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
